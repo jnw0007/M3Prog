@@ -1,4 +1,4 @@
-ervices:
+services:
   # PHP FPM Service
   php:
     image: wodby/php:latest
