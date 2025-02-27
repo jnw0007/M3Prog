@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>De datum vandaag is: <?php echo date('d-m-Y')?>, en de tijd is <?php echo date("H:i")?> uur.</h2>
-
+    
     <p><h2>Mijn favoriete game</h2><?php echo "Portal"; ?></p>
 </body>
 </html>
