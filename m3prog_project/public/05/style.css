@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(241, 227, 234);
+    font-family: sans-serif;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+}
+li{
+    list-style: none;
+    font-weight: 600;
+    color: rgb(245, 118, 177);
+    background-color: rgb(255, 185, 219);
+    border-radius: 16px;
+}
+p{
+    font-weight: 900;
+    color: rgb(238, 82, 155);
+    background-color: rgb(255, 185, 219);
+    border-radius: 16px;
+}
+
+h1{
+    color: rgb(203, 46, 120);   
+}
+

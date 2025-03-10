@@ -13,7 +13,7 @@
         $lengte = count($pokemons);
         for ($i = 0; $i < $lengte; $i++)
         {
-            echo $i, "<img src=$images>", "<h2>$pokemons</h2>", "<br>";
+            echo $i. "<img src=$images[$i]>". "<h2>$pokemons[$i]</h2>". "<br>";
         }
    ?>
 </body>
